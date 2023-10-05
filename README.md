@@ -23,7 +23,7 @@ To use Remi Reminder, follow these steps:
 
 4. You can view all your reminders in a table format using the `/my-reminders` command.
 
-  <img src="img/reminders table.png" alt="creating the user" width="auto" height="250">
+  <img src="img/reminders table.jpg" alt="creating the user" width="auto" height="250">
 
 5. If you want to delete a specific reminder, use the `/delete-reminder` command followed by the ID of the reminder you want to remove. For example:
 
