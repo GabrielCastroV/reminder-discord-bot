@@ -7,6 +7,10 @@ well well well, i got you.
 I introduce you **Remi Reminder**, your new discord bot that will remind you every single task at the exact hour you provide to it. Useful for your discord server, even your friends can use it, it is really easy!
 
 
+
+> [!NOTE]
+> Join to test the bot here: https://discord.gg/vPH6Y574
+
 ## Getting Started
 
 To use Remi Reminder, follow these steps:
