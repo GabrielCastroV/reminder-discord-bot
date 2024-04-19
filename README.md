@@ -7,6 +7,10 @@ well well well, i got you.
 I introduce you **Remi Reminder**, your new discord bot that will remind you every single task at the exact hour you provide to it. Useful for your discord server, even your friends can use it, it is really easy!
 
 
+
+> [!NOTE]
+> Join to test the bot here: https://discord.gg/vPH6Y574
+
 ## Getting Started
 
 To use Remi Reminder, follow these steps:
@@ -23,7 +27,7 @@ To use Remi Reminder, follow these steps:
 
 4. You can view all your reminders in a table format using the `/my-reminders` command.
 
-  <img src="img/reminders table.png" alt="creating the user" width="auto" height="250">
+  <img src="img/reminders table.jpg" alt="creating the user" width="auto" height="250">
 
 5. If you want to delete a specific reminder, use the `/delete-reminder` command followed by the ID of the reminder you want to remove. For example:
 
